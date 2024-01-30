@@ -125,6 +125,7 @@ Navigate the world of attestations with our dedicated explorer. It's like Ethers
 **Layer 2's**
 - [https://arbitrum.easscan.org/](https://arbitrum.easscan.org/)
 - [https://optimism.easscan.org/](https://optimism.easscan.org/)
+- [https://base.easscan.org/](https://base.easscan.org/)
 
 ![Explorer Example](./img/explorer-example.png)
 
